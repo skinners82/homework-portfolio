@@ -1,0 +1,30 @@
+<style>
+
+
+.header {
+        text-align: center;
+        background: url("images/IMG_2546.JPG");
+        background-repeat: no-repeat;
+		background-size: cover;
+        color:white;
+      }
+    .cover{
+   height:25%; 
+    width: auto;
+}
+      a {
+        color: white;
+      }
+      h1 {
+        font-size: 70px;
+      }
+    
+      ul {
+        padding: 10px;
+        background:black;
+      }
+      li {
+        display: inline;
+        padding: 0px 10px 0px 10px;
+      }
+</style>
